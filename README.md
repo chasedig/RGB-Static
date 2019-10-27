@@ -2,7 +2,7 @@
 This Python script generates RGB (rainbow) static.
 
 Libraries used:
-  numpy
-  matplotlib
-  random
-  cv2
+  numpy,
+  matplotlib,
+  random,
+  cv2,
