@@ -6,7 +6,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import random
-import secrets
 import cv2
 
 img_array = np.zeros((100,100,3), np.uint8)
